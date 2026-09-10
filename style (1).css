@@ -1151,10 +1151,12 @@ html[data-theme="dark"] .period-pill {
   width: 1.5px;
   background: var(--g200);
 }
-.timeline .job-card {
+.timeline .job-card,
+.timeline .edu-card {
   position: relative;
 }
-.timeline .job-card::before {
+.timeline .job-card::before,
+.timeline .edu-card::before {
   content: "";
   position: absolute;
   left: -25px;
