@@ -474,6 +474,7 @@ h1.hero-name {
   letter-spacing: -0.025em;
   color: var(--black);
   margin-bottom: 12px;
+  min-height: calc(3 * 1.06em);
 }
 
 h1.hero-name .muted {
