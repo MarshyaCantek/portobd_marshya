@@ -646,8 +646,8 @@ h1.hero-name .muted {
   font-weight: 700;
   margin-bottom: 4px;
 }
-.skill-card:first-child .sub-lbl {
-  margin-top: 28px;
+.tools-title {
+  margin-top: 18px;
 }
 .sub-lbl {
   font-size: 0.72rem;
